@@ -27,4 +27,7 @@ __pycache__/
 # Others
 *.db
 *.sqlite3
-service-account-file.json 
+service-account-file.json
+
+# Ignore environment variable files
+moondream-variphi-apis/.env 
